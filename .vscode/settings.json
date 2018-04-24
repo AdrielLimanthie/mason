@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.wordWrap": "off",
+  "files.eol": "\n",
+  "javascript.suggestionActions.enabled": false,
+  "eslint.enable": true,
+}
