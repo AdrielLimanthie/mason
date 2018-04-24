@@ -1,0 +1,9 @@
+{
+  "name": "mason",
+  "version": "0.1.0",
+  "description": "An opinionated React boilerplate based on the current technology",
+  "main": "index.js",
+  "repository": "https://github.com/AdrielLimanthie/mason.git",
+  "author": "AdrielLimanthie <a.limanthie@yahoo.com>",
+  "license": "MIT"
+}
