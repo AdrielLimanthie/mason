@@ -6,5 +6,7 @@
     "dbaeumer.vscode-eslint",
     "EditorConfig.editorconfig",
     "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "wayou.vscode-todo-highlight",
 	]
 }
